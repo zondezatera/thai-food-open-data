@@ -15,29 +15,42 @@
   {
     "name":  "ข้าวมันไก่",
     "eng_name": "Chicken Rice",
-    "rice": "possible",
+    "rice": "contain",
     "meat": ["chicken"],
     "spicy": false,
     "seafood": false,
     "green_level": "none",
     "contain-nut": "none",
     "contain-milk": "none",
-    "avg_calories": null,
-    "cuisine": "chiness"
+    "avg_calories": 515,
+    "cuisine": "chinese"
   },
    {
     "name":  "ข้าวหมูแดง",
     "eng_name": "BBQ pork Rice",
-    "rice": "possible",
+    "rice": "contain",
     "meat": ["pork"],
     "spicy": false,
     "seafood": false,
     "green_level": "none",
     "contain-nut": "none",
     "contain-milk": "none",
-    "avg_calories": null,
-    "cuisine": "chiness"
+    "avg_calories": 438,
+    "cuisine": "chinese"
   },
+  {
+   "name":  "ข้าวผัดกระเพราไก่",
+   "eng_name": "Holy basil chicken fried Rice",
+   "rice": "contain",
+   "meat": ["chicken"],
+   "spicy": false,
+   "seafood": false,
+   "green_level": "none",
+   "contain-nut": "none",
+   "contain-milk": "none",
+   "avg_calories": 554,
+   "cuisine": "thai"
+ },
   {
    "name":  "ผัดผักบุ้ง",
    "eng_name": "Stir Fried Swamp Cabbage",
@@ -62,7 +75,7 @@
     "contain-nut": "not-contain",
     "contain-milk": "not-contain",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   },
   {
     "name":  "ผัดไท",
@@ -88,7 +101,7 @@
     "contain-nut": "possible",
     "contain-milk": "possible",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   },
   {
     "name":  "ต้มยำกุ้ง",
@@ -114,7 +127,7 @@
     "contain-nut": "not-contain",
     "contain-milk": "not-contain",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   },
   {
     "name":  "ต้มยำปลากรอบ",
@@ -218,7 +231,7 @@
     "contain-nut": "not-contain",
     "contain-milk": "not-contain",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   },
   {
     "name":  "ขนมจีนน้ำยา",
@@ -231,7 +244,7 @@
     "contain-nut": "not-contain",
     "contain-milk": "contain",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   },
   {
     "name":  "ห่อหมกปู",
@@ -244,6 +257,6 @@
     "contain-nut": "not-contain",
     "contain-milk": "contain",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   }
 ]
